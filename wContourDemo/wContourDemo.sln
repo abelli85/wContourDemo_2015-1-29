@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wContourDemo", "wContourDemo.csproj", "{40F768A0-CB85-4EE4-9588-EDE0ECFC4263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wContour", "..\wContour\wContour.csproj", "{D7B062DE-DC49-442E-8538-B80897CECBC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContourSLDemo", "..\ContourSLDemo\ContourSLDemo.csproj", "{7196A6DB-1746-48BD-A21E-962A9B321997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContourSLDemo.Web", "..\ContourSLDemo.Web\ContourSLDemo.Web.csproj", "{8A1B15C8-ABF6-4411-B67A-AF4BD7A75047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F768A0-CB85-4EE4-9588-EDE0ECFC4263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F768A0-CB85-4EE4-9588-EDE0ECFC4263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F768A0-CB85-4EE4-9588-EDE0ECFC4263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F768A0-CB85-4EE4-9588-EDE0ECFC4263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B062DE-DC49-442E-8538-B80897CECBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B062DE-DC49-442E-8538-B80897CECBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B062DE-DC49-442E-8538-B80897CECBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B062DE-DC49-442E-8538-B80897CECBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7196A6DB-1746-48BD-A21E-962A9B321997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7196A6DB-1746-48BD-A21E-962A9B321997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7196A6DB-1746-48BD-A21E-962A9B321997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7196A6DB-1746-48BD-A21E-962A9B321997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1B15C8-ABF6-4411-B67A-AF4BD7A75047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1B15C8-ABF6-4411-B67A-AF4BD7A75047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1B15C8-ABF6-4411-B67A-AF4BD7A75047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1B15C8-ABF6-4411-B67A-AF4BD7A75047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
